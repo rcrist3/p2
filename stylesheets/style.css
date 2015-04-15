@@ -1,9 +1,10 @@
 body {
-  background: #f9e933;
+  background: #00bfff;
 }
 
 header, main, footer {
   min-width: 855px;
+  background: #00bfff;
 }
 
 header .container, main .container, footer .container {
@@ -49,4 +50,20 @@ footer .left {
 footer .sitemap {
   float: right;
   width: 285px;
+}
+
+h1 {
+  font-family: Ubuntu;
+}
+
+h2 {
+  font-family: Ubuntu;
+}
+
+h3 {
+  font-family: Ubuntu;
+}
+
+h4 {
+  font-family: Ubuntu;
 }
