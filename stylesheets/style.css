@@ -35,6 +35,8 @@ main {
 main .left {
   float: left;
   width: 570px;
+  font-family: Impact;
+
 }
 
 main .right {
@@ -67,3 +69,8 @@ h3 {
 h4 {
   font-family: Ubuntu;
 }
+
+#lightbulb{
+ transform: rotate(45deg);
+}
+
