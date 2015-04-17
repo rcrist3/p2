@@ -1,0 +1,76 @@
+body {
+  background: #00bfff;
+}
+
+header, main, footer {
+  min-width: 855px;
+  background: #00bfff;
+}
+
+header .container, main .container, footer .container {
+  max-width: 855px;
+  margin: auto;
+}
+
+header {
+  background: white;
+  overflow: auto;
+}
+
+header h1 {
+  float: left;
+  width: 570px;
+}
+
+header nav {
+  float: right;
+  width: 285px;
+}
+
+main {
+  background: white;
+  overflow: auto;
+}
+
+main .left {
+  float: left;
+  width: 570px;
+  font-family: Impact;
+
+}
+
+main .right {
+  float: right;
+  width: 285px;
+}
+
+footer .left {
+  float: left;
+  width: 570px;
+}
+
+footer .sitemap {
+  float: right;
+  width: 285px;
+}
+
+h1 {
+  font-family: Ubuntu;
+}
+
+h2 {
+  font-family: Ubuntu;
+}
+
+h3 {
+  font-family: Ubuntu;
+}
+
+h4 {
+  font-family: Ubuntu;
+}
+
+#lightbulb{
+ transform: rotate(45deg);
+}
+
